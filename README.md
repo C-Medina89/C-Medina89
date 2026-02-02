@@ -3,7 +3,7 @@
 
 Data Engineering bootcamp graduate skilled in building end-to-end data pipelines, cloud-based ETL systems, and applied machine learning solutions using Python and SQL.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/musab) • 📧 [Email](mailto:m.masud@lbhospital.med.ly)
+🔗 [LinkedIn](https://www.linkedin.com/in/musab-masud/) • 📧 [Email](mailto:m.masud@lbhospital.med.ly)
 
 ---
 ## 🚀 Featured Projects
@@ -42,7 +42,7 @@ I'm actively seeking roles in **data engineering, analytics, and ML systems**.
 
 ## 📬 Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/musab](https://www.linkedin.com/in/musab)
+- LinkedIn: [https://www.linkedin.com/in/musab](https://www.linkedin.com/in/musab-masud/)
 - GitHub: [https://github.com/yourusername](https://github.com/C_Medina89)
 
 
