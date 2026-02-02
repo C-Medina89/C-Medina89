@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Musab 👋
 
-<!--
-**C-Medina89/C-Medina89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT / Cybersecurity professional with a background in administration and data projects.
+Currently building hands-on skills in Python, networking, and security fundamentals.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Linux
+- Git & GitHub
+- Networking fundamentals
+- Data analysis basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🚀 **py-mars-rover** – Python mission-control simulation built with clean architecture and test-driven development, featuring collision handling, layered design, and an interactive CLI
+- 📊 **Data-Engineering-Group-Proj** – End-to-end, event-driven ETL pipeline on AWS using Python and Terraform, with secure serverless ingestion, star-schema modelling, and production-style testing
+- 🤖 **AG News ML Classifier** – End-to-end machine learning & NLP project using TF-IDF and Logistic Regression, with a modular training pipeline, unit tests, and a conversational chatbot interface powered by TinyLlama
+
+
+## 📫 Get in touch
+- LinkedIn: <https://www.linkedin.com/in/musab-masud/>
