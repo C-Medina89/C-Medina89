@@ -29,7 +29,7 @@ Data Engineering bootcamp graduate skilled in building end-to-end data pipelines
 
 ## 📌 About Me
 
-I'm a recent graduate of the **Ncertocers Data Engineering Bootcamp**, an intensive industry-led program focused on real-world data roles. During the bootcamp, I gained hands-on experience with:
+I'm a recent graduate of the **Northcoders Data Engineering Bootcamp**, an intensive industry-led program focused on real-world data roles. During the bootcamp, I gained hands-on experience with:
 
 - End-to-end data pipeline development
 - Cloud-based storage and processing
@@ -43,7 +43,7 @@ I'm actively seeking roles in **data engineering, analytics, and ML systems**.
 ## 📬 Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/musab](https://www.linkedin.com/in/musab-masud/)
-- GitHub: [https://github.com/yourusername](https://github.com/C_Medina89)
+- GitHub: [https://github.com/C_Medina89](https://github.com/C_Medina89)
 
 
 ---
