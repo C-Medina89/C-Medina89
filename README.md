@@ -6,14 +6,13 @@ Data Engineering bootcamp graduate skilled in building end-to-end data pipelines
 🔗 [LinkedIn](https://www.linkedin.com/in/musab) • 📧 [Email](mailto:m.masud@lbhospital.med.ly)
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| **[py-mars-rover](https://github.com/C_Medina89/py-mars-rover)** | Python, TDD, CLI | Clean architecture rover simulation with collision handling and interactive CLI. |
-| **[Data-Engineering-Group-Proj](https://github.com/C_Medina89/Data-Engineering-Group-Proj)** | AWS, Terraform, Python | Event-driven ETL pipeline with serverless ingestion and state schema modeling. |
-| **[AG News ML Classifier](https://github.com/C_Medina89/AG-News-ML-Classifier)** | Python, NLP, TF-IDF, Logistic Regression | End-to-end ML pipeline with unit tests and chatbot interface. |
+| **[py-mars-rover](https://github.com/C-Medina89/py-mars-rover)** | Python, TDD, CLI | Clean architecture rover simulation with collision handling and interactive CLI. |
+| **[Data-Engineering-Group-Proj](https://github.com/C-Medina89/Data-Engineering-Group-Proj)** | AWS, Terraform, Python | Event-driven ETL pipeline with serverless ingestion and state schema modeling. |
+| **[AG News ML Classifier](https://github.com/C-Medina89/Machine-Learning-Project)** | Python, NLP, TF-IDF, Logistic Regression | End-to-end ML pipeline with unit tests and chatbot interface. |
 
 ---
 
