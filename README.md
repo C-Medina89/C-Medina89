@@ -1,54 +1,51 @@
-# Hi, I’m Musab Masud 👋  
+# 👋 Hi, I'm Musab Masud  
 **Graduate Data Engineer | Machine Learning & AI**
 
-I’m a **Data Engineering bootcamp graduate from Nortcoders**, with hands-on experience building **end-to-end data pipelines**, working with real-world datasets, and developing **machine learning and AI-driven solutions** using Python and SQL.
+Data Engineering bootcamp graduate skilled in building end-to-end data pipelines, cloud-based ETL systems, and applied machine learning solutions using Python and SQL.
 
-My GitHub showcases projects completed during the bootcamp, with a focus on **scalable data processing**, **cloud-based data engineering**, and **applied machine learning**.
-
----
-
-## 📂 Featured Projects
-- 🚀 **py-mars-rover** – Clean-architecture Python simulation built with test-driven development, collision handling, and an interactive CLI  
-- 📊 **Data-Engineering-Group-Proj** – Event-driven AWS ETL pipeline using Python and Terraform, with secure serverless ingestion and star-schema data modelling  
-- 🤖 **AG News ML Classifier** – End-to-end ML & NLP pipeline using TF-IDF and Logistic Regression, with unit tests and a conversational chatbot interface  
+🔗 [LinkedIn](https://www.linkedin.com/in/musab) • 📧 [Email](mailto:m.masud@lbhospital.med.ly)
 
 ---
 
-## 🧠 About Me
-I completed the **Nortcoders Data Engineering Bootcamp**, an intensive, industry-led programme designed to prepare graduates for real-world data roles.
+## 🚀 Featured Projects
 
-During the bootcamp, I worked on **individual and team-based projects** using modern data tools and workflows, including:
-- End-to-end data pipelines  
-- Cloud-based data storage and processing  
-- Machine learning models and evaluation  
-- Agile development and pair programming  
-- Version control, testing, and clean code practices  
-
-I’m particularly interested in roles involving **data pipelines, analytics, and machine learning systems**.
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| **[py-mars-rover](https://github.com/C_Medina89/py-mars-rover)** | Python, TDD, CLI | Clean architecture rover simulation with collision handling and interactive CLI. |
+| **[Data-Engineering-Group-Proj](https://github.com/C_Medina89/Data-Engineering-Group-Proj)** | AWS, Terraform, Python | Event-driven ETL pipeline with serverless ingestion and state schema modeling. |
+| **[AG News ML Classifier](https://github.com/C_Medina89/AG-News-ML-Classifier)** | Python, NLP, TF-IDF, Logistic Regression | End-to-end ML pipeline with unit tests and chatbot interface. |
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-### Programming
-- Python  
-- SQL  
-
-### Data Engineering
-- ETL / ELT pipelines  
-- Data ingestion from APIs and databases  
-- Data cleaning and transformation  
-- Relational data modelling  
-- Batch data processing  
-
-### Machine Learning & AI
-- Supervised learning (classification & regression)  
-- Feature engineering  
-- Model evaluation and optimisation  
-- AI-assisted data analysis workflows  
+| Category | Technologies & Tools |
+|----------|----------------------|
+| **Programming** | Python, SQL |
+| **Data Engineering** | ETL/ELT Pipelines, API/Database Ingestion, Data Cleaning & Transformation, Relational Data Modeling, Batch Processing |
+| **ML & AI** | Supervised Learning, Feature Engineering, Model Evaluation, AI-Assisted Workflows |
+| **Cloud & Tools** | AWS, Terraform, Git, Agile/Scrum |
 
 ---
 
+## 📌 About Me
 
-## 📫 Get in touch
-- LinkedIn: <https://www.linkedin.com/in/musab-masud/>
+I'm a recent graduate of the **Ncertocers Data Engineering Bootcamp**, an intensive industry-led program focused on real-world data roles. During the bootcamp, I gained hands-on experience with:
+
+- End-to-end data pipeline development
+- Cloud-based storage and processing
+- Machine learning model building and evaluation
+- Agile development, pair programming, and code reviews
+
+I'm actively seeking roles in **data engineering, analytics, and ML systems**.
+
+---
+
+## 📬 Get in Touch
+
+- LinkedIn: [https://www.linkedin.com/in/musab](https://www.linkedin.com/in/musab)
+- GitHub: [https://github.com/yourusername](https://github.com/C_Medina89)
+
+
+---
+
